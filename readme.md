@@ -2,8 +2,6 @@
 
 My name is **Cody** and I'm a software engineer from Colorado.
 
-I specialize in cloud technologies focused on AWS, Azure, Serverless, Typescript and GraphQL.
-
 <!--
 **codyfyi/codyfyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
